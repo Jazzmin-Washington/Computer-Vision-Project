@@ -13,10 +13,9 @@ Milestone 2: Installing the dependencies (In Progress)
 
    A new virtual environment was created using conda. Within this new environment, opencv-python, TensorFlow, and ipykernal libraries were downloaded using the commandline. The model was then run oon my local machine. This model makes variable predictions containing the output of the model. Each element in the output corresponds to the class
   
- Scissors: ![image](https://user-images.githubusercontent.com/102431019/163892034-c92f884c-0b0a-43ef-af57-c1915b8e8ca0.png)
- Paper: ![image](https://user-images.githubusercontent.com/102431019/163892082-d5b12ba4-cec3-44e2-a03a-d758206d88fd.png)
- Rock: ![image](https://user-images.githubusercontent.com/102431019/163892107-7a3f6012-e8bc-476c-8e86-efa4bc7ff806.png)
-
+ Example of Scissors: ![image](https://user-images.githubusercontent.com/102431019/163892362-aac51e8e-6d17-4942-9756-fc1d1f4a8211.png)
+ Example of Paper: ![image](https://user-images.githubusercontent.com/102431019/163892481-60a1d385-ffc3-43ed-858f-c6f1b342b956.png)
+ Example of Rock: ![image](https://user-images.githubusercontent.com/102431019/163892568-2eacf2ef-76d2-4a2b-a8dd-66d79f1b9bc0.png)
 
 
 
