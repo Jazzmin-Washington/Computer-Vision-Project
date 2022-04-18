@@ -6,7 +6,7 @@ We will then use our trained model and install dependicies. Afterward, we will c
 **Milestone 1: Training the model (Completed)**
   Using teachablemachine.withgoogle.com, we trained an image model with four different classes: Rock, Paper, Scissors and Nothing. The trained model was then downloaded via TensorFlow and saved in a directory.
   
-   Example of Scissors: ![image](https://user-images.githubusercontent.com/102431019/163892362-aac51e8e-6d17-4942-9756-fc1d1f4a8211.png)
+Example of Scissors: ![image](https://user-images.githubusercontent.com/102431019/163892362-aac51e8e-6d17-4942-9756-fc1d1f4a8211.png)
  
  
  Example of Paper: ![image](https://user-images.githubusercontent.com/102431019/163892481-60a1d385-ffc3-43ed-858f-c6f1b342b956.png)
