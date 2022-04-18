@@ -13,7 +13,12 @@ Milestone 2: Installing the dependencies (In Progress)
 
    A new virtual environment was created using conda. Within this new environment, opencv-python, TensorFlow, and ipykernal libraries were downloaded using the commandline. The model was then run oon my local machine. This model makes variable predictions containing the output of the model. Each element in the output corresponds to the class
   
-  
+ Scissors: ![image](https://user-images.githubusercontent.com/102431019/163892034-c92f884c-0b0a-43ef-af57-c1915b8e8ca0.png)
+ Paper: ![image](https://user-images.githubusercontent.com/102431019/163892082-d5b12ba4-cec3-44e2-a03a-d758206d88fd.png)
+ Rock: ![image](https://user-images.githubusercontent.com/102431019/163892107-7a3f6012-e8bc-476c-8e86-efa4bc7ff806.png)
+
+
+
 
 Milestone 3: Creating the Rock, Paper, Scissor Game (Not Completed)
 
