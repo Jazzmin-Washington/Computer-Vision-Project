@@ -29,7 +29,6 @@ Within the command line:
       $ conda create -n Computer_Vision_RPS python=3.8
       
       #To activate the environement:
-     
       $ conda activate Computer_Vision_RPS
       
       #To install the dependencies: opencv-python, TensorFlow and ipykernel
@@ -37,6 +36,8 @@ Within the command line:
       $ pip install tensorflow
       $ pip install ipykernel
       
+![image](https://user-images.githubusercontent.com/102431019/164050034-5dd85f6e-cda8-4254-a8e3-ec344959d780.png)
+
     
   
 **Milestone 3: Creating the Rock, Paper, Scissor Game (Not Completed):**
