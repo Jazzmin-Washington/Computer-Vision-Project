@@ -15,6 +15,11 @@ Example of Scissors: ![image](https://user-images.githubusercontent.com/10243101
  Example of Rock: ![image](https://user-images.githubusercontent.com/102431019/163892568-2eacf2ef-76d2-4a2b-a8dd-66d79f1b9bc0.png)
  
  
+ 
+ 
+ 
+ 
+ 
 **Milestone 2: Installing the dependencies (In Progress):**
 A new virtual environment was created using conda. Within this new environment, opencv-python, TensorFlow, and ipykernel libraries were downloaded using the commandline. The model was then run oon my local machine. This model makes variable predictions containing the output of the model. Each element in the output corresponds to the class
 
@@ -38,6 +43,11 @@ Within the command line:
       
 ![image](https://user-images.githubusercontent.com/102431019/164050034-5dd85f6e-cda8-4254-a8e3-ec344959d780.png)
 
+  
+  
+  
+  
+  
   
 **Milestone 3: Creating the Rock, Paper, Scissor Game (In Progress):**
 A command for user input was made to store the user's and the computer's choices using the random with python. Using while, if, else statements, a wiinning structure was created so the program can decide who wins. This code was then encompassed in a function to similate a game of Rock, Paper, Scissors.
@@ -147,6 +157,11 @@ A command for user input was made to store the user's and the computer's choices
     
     
  ![image](https://user-images.githubusercontent.com/102431019/165142439-bb39ca18-9481-4d17-a84f-9f6b6b5c9873.png)
+
+
+
+
+
 
           
 **Milestone 4: Putting it together (Not Completed):**
