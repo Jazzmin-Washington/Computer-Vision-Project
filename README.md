@@ -15,8 +15,8 @@ Example of Scissors: ![image](https://user-images.githubusercontent.com/10243101
  Example of Rock: ![image](https://user-images.githubusercontent.com/102431019/163892568-2eacf2ef-76d2-4a2b-a8dd-66d79f1b9bc0.png)
  
  
-**Milestone 2: Installing the dependencies (Completed):**
-A new virtual environment was created using conda. Within this new environment, opencv-python, TensorFlow, and ipykernel libraries were downloaded using the commandline. The model was then run on my local machine using VS Code inside a Jupyter notebook. This model makes variable predictions containing the output of the model. Each element in the output corresponds to a different class. 
+**Milestone 2: Installing the dependencies (In Progress):**
+A new virtual environment was created using conda. Within this new environment, opencv-python, TensorFlow, and ipykernel libraries were downloaded using the commandline. The model was then run oon my local machine. This model makes variable predictions containing the output of the model. Each element in the output corresponds to the class
 
 Within the command line:
 
@@ -36,11 +36,6 @@ Within the command line:
       $ pip install opencv-python
       $ pip install tensorflow
       $ pip install ipykernel
-      
-To train the model on my local system using VSCode:
-    ![image](https://user-images.githubusercontent.com/102431019/164271823-88b6241f-90f2-4675-8ddc-6d0390dff9d1.png)
-
-Keep in mind, the Jupyter Notebook should be created in the same directory as the trained model you want to use. Be sure to use the conda environment as the interpreter for the Jupyter Notebook.
       
     
   
