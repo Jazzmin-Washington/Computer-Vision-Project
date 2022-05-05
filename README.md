@@ -3,7 +3,7 @@
  ### Using a teachable machine, we trained a machine to recognize four images: Rock, Paper, Scissors and Nothing. We will then use the trained model to play a game of Rock, Paper and Scissors using the camera implementing python coding and Computer Vision techniques.  
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-## **Milestone 1: Training the model (Completed):**##
+## **Milestone 1: Training the model (Completed):**
 - Using a [Teachable Machine](teachablemachine.withgoogle.com) , we trained an image model with four different classes: Rock, Paper, Scissors and Nothing. The trained model was then downloaded via TensorFlow and saved in a directory.
   
   ![Picture_for_ReadME](https://user-images.githubusercontent.com/102431019/166975425-94d2a941-294d-4b26-961c-5899668f7bc3.png)
@@ -36,7 +36,8 @@ Within the command line:
   
   
   ![image](https://user-images.githubusercontent.com/102431019/164050034-5dd85f6e-cda8-4254-a8e3-ec344959d780.png)
-Picture Above: The necessary dependencies were downloaded and pictured above.
+   
+   Picture Above: The necessary dependencies were downloaded and pictured above.
       
   - The model was then run on a local machine using the previously made conda environment as the Jupyter/Python interpreter. The following code was used to test the decision accuracy of the model and ensure it recognized the different classes.
   
@@ -155,7 +156,8 @@ Picture Above: The necessary dependencies were downloaded and pictured above.
                               self.play_again() 
         
      ![image](https://user-images.githubusercontent.com/102431019/165142439-bb39ca18-9481-4d17-a84f-9f6b6b5c9873.png)
-      The picture above illustrated how the  `def who_wins()` function was tested using an text input in which the user picks Rock, Paper, Scissors to ensure the correct winner is selected and the `play_again()` function was called properly.
+      
+     The picture above illustrated how the  `def who_wins()` function was tested using an text input in which the user picks Rock, Paper, Scissors to ensure the correct winner is selected and the `play_again()` function was called properly.
                               
                               
 - After the player or the computer achieves three wins, the game will end. The ``self.getting_started()`` will then give the player the option to play again or quit the game.
