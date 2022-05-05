@@ -342,5 +342,8 @@ Within the command line:
  
  **Positives:** Instead of using global variables, I used object- oriented programming to make sure each of the variables I initialized would translate throughout the different functions. I learned that it is easier to break the content up based on the proposed function and group them together using a clearly defined class. Therefore, it is easier to call each of the functions and I know there isn't any confusion in terms of the variables used.
  
- **Future Goals**: Using the teachable machine was easier as it trained the model through the cloud but, in future, I would like to train my own model and I look forward to achieving this goal. I would like to gain more experience using tensorflow as I only used the load_model function in this project.  
+ 
+ **Future Goals**: Using the teachable machine was easier as it trained the model through the cloud but, in future, I would like to train my own model and I look forward to achieving this goal. I would like to gain more experience using tensorflow as I only used the load_model function in this project. 
+ 
+ 
 **Problem Solving:** In terms of the programming, I found the hardest part was integrating camera into the game but after poring through the opencv documentation I discovered several of my functions required the `ret, frame = cap.read` function to read the screen before it would give an output. Seondly, I also had a problem with coding the option for multiple key press options but discovered `waitKey(1) & 0xFF` function waits for a specific/individual key press. Therefore, it is better to save `waitKey(1) & 0xFF` as a variable allowing the program to differentiate between keys.
