@@ -33,6 +33,10 @@ Within the command line:
       $ conda install opencv-python
       $ conda install tensorflow
       $ conda install ipykernel
+  
+  
+  ![image](https://user-images.githubusercontent.com/102431019/164050034-5dd85f6e-cda8-4254-a8e3-ec344959d780.png)
+Picture Above: The necessary dependencies were downloaded and pictured above.
       
   - The model was then run on a local machine using the previously made conda environment as the Jupyter/Python interpreter. The following code was used to test the decision accuracy of the model and ensure it recognized the different classes.
   
@@ -149,7 +153,9 @@ Within the command line:
                               self.show_text(frame, f"The Computer Wins!!", (75, 250), cv2.FONT_HERSHEY_SIMPLEX, 1.7, (0, 255, 255), 2, cv2.LINE_8)
                               cv2.waitKey(2500)
                               self.play_again() 
-                              
+        
+     ![image](https://user-images.githubusercontent.com/102431019/165142439-bb39ca18-9481-4d17-a84f-9f6b6b5c9873.png)
+      The picture above illustrated how the  `def who_wins()` function was tested using an text input in which the user picks Rock, Paper, Scissors to ensure the correct winner is selected and the `play_again()` function was called properly.
                               
                               
 - After the player or the computer achieves three wins, the game will end. The ``self.getting_started()`` will then give the player the option to play again or quit the game.
