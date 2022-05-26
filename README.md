@@ -44,8 +44,6 @@ Within the command line:
         model = load_model('RPS_Model_Final.h5')
         cap = cv2.VideoCapture(0)
         data = np.ndarray(shape=(1, 224, 224, 3), dtype=np.float32)
-        new_RPS_game = RPS_Game()
-        new_RPS_game.welcome()
 
 
         while True: 
