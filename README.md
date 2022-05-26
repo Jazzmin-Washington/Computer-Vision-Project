@@ -153,7 +153,8 @@ Within the command line:
                               cv2.waitKey(2500)
                               self.play_again() 
         
-     ![image](https://user-images.githubusercontent.com/102431019/165142439-bb39ca18-9481-4d17-a84f-9f6b6b5c9873.png)
+     ![image](https://user-images.githubusercontent.com/102431019/170515221-82db8680-0fa2-470e-a4bd-0f17b485ce32.png)
+
       
      The picture above illustrated how the  `def who_wins()` function was tested using an text input in which the user picks Rock, Paper, Scissors to ensure the correct winner is selected and the `play_again()` function was called properly.
                               
