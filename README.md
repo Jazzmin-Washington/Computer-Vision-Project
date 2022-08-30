@@ -1,6 +1,6 @@
 #Computer-Vision-Project
 ---------------------------------------------------------------------------------------------------------------------------------------------
- ### Using a teachable machine, we trained a machine to recognize four images: Rock, Paper, Scissors and Nothing. We will then use the trained model to play a game of Rock, Paper and Scissors using the camera implementing python coding and Computer Vision techniques.  
+ ### Using teachablemachine.withgoogle.com, a machine model was trained to recognize four images: Rock, Paper, Scissors and Nothing. This training model was then used to design a game of Rock, Paper, Scissors in which users play against the computer using user's camera. 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Milestone 1: Training the model (Completed):**
